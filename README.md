@@ -1,7 +1,7 @@
 ## SQL-challenge
 Emma Braden | SQL Homework | Due 8/12
 
-This project looks at the employee records in SQL. Schemata.sql creates tables, where csv files from the data file can be imported. The tables are written to be created in the order that they must be dropped, created, and imported in order to work. 
+This repo looks at the employee records using SQL. Schemata.sql creates tables, where csv files from the data file can be imported. The tables are written to be created in the order that they must be dropped, created, and imported in order to work. 
 
 A summary of the relationships is visualized in an ERD using QuickDBD contained in the ERD folder. 
 
